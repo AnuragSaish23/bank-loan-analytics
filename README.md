@@ -30,7 +30,5 @@ bank-loan-analytics/
 4. Loan Purpose Risk Analysis<!-- TODO: Update after completing analyses -->
 
 ## 👤 Author
-[Your Name]
+Anurag Saish
 
-## 📄 License
-This project uses synthetic data for educational purposes.
