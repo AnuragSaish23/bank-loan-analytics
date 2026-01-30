@@ -7,10 +7,12 @@ Jupyter notebooks for data analysis.
 | Notebook | Description |
 |----------|-------------|
 | `01_data_preprocessing.ipynb` | Data cleaning and preparation |
-| `02_python_eda.ipynb` | Exploratory Data Analysis |
+
+*More notebooks will be added as the project progresses.*
 
 ## Running Notebooks
 
-1. Ensure you have the required packages: `pip install -r ../requirements.txt`
-2. Open VS Code and select the notebook
-3. Choose the Python kernel
+1. Activate the virtual environment: `.\venv\Scripts\Activate`
+2. Ensure you have the required packages: `pip install -r ../requirements.txt`
+3. Open VS Code and select the notebook
+4. Choose the Python kernel from the venv
